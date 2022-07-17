@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LesMas-tek
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning basic computer science
+- 🌱 I’m currently learning introduction to computer science
 - 💞️ I’m looking to collaborate on CS50 C language
 - 📫 How to reach me in facebook''
 
